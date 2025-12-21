@@ -54,14 +54,17 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshikakalpana/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshikakalpana/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Anshikakalpana/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,4 +73,8 @@
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
