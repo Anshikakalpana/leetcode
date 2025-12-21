@@ -7,6 +7,7 @@
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anshikakalpana/leetcode/tree/master/0146-lru-cache) |
+| [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +80,8 @@
 |  |
 | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
