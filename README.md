@@ -15,12 +15,14 @@
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
