@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -60,6 +62,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
 |  |
@@ -88,6 +91,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -111,4 +115,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
