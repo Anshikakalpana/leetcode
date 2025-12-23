@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -95,6 +96,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Enumeration
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
