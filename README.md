@@ -20,6 +20,7 @@
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
+| [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
+| [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Enumeration
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
