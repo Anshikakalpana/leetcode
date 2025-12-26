@@ -25,6 +25,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anshikakalpana/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Greedy
 |  |
 | ------- |
@@ -145,4 +146,8 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Anshikakalpana/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
