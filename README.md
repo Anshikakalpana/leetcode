@@ -14,6 +14,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anshikakalpana/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anshikakalpana/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## String
@@ -41,6 +42,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anshikakalpana/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anshikakalpana/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
@@ -48,6 +50,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Anshikakalpana/leetcode/tree/master/0146-lru-cache) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
 | ------- |
@@ -128,10 +131,12 @@
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
+| [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Backtracking
 |  |
 | ------- |
