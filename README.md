@@ -11,6 +11,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Tree
 |  |
 | ------- |
