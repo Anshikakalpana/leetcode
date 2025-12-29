@@ -27,6 +27,7 @@
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anshikakalpana/leetcode/tree/master/0146-lru-cache) |
+| [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -127,6 +129,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
+| [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
 ## Graph
 |  |
