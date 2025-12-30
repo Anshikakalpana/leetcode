@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anshikakalpana/leetcode/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
@@ -45,6 +46,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anshikakalpana/leetcode/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -169,6 +171,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Anshikakalpana/leetcode/tree/master/0015-3sum) |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 ## Prefix Sum
 |  |
