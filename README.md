@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -59,6 +60,7 @@
 | [0146-lru-cache](https://github.com/Anshikakalpana/leetcode/tree/master/0146-lru-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
@@ -90,6 +92,7 @@
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -138,6 +141,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Enumeration
