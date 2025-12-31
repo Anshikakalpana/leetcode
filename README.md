@@ -18,6 +18,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anshikakalpana/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -81,6 +82,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Tree
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0841-keys-and-rooms](https://github.com/Anshikakalpana/leetcode/tree/master/0841-keys-and-rooms) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Anshikakalpana/leetcode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -172,6 +177,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Two Pointers
 |  |
 | ------- |
