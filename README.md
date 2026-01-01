@@ -64,6 +64,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anshikakalpana/leetcode/tree/master/0146-lru-cache) |
+| [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
@@ -193,4 +196,12 @@
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
