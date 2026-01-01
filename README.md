@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Anshikakalpana/leetcode/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/Anshikakalpana/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Anshikakalpana/leetcode/tree/master/0066-plus-one) |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
