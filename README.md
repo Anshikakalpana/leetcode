@@ -111,6 +111,7 @@
 | [0112-path-sum](https://github.com/Anshikakalpana/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -129,6 +130,7 @@
 | [0112-path-sum](https://github.com/Anshikakalpana/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@
 | [0113-path-sum-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Anshikakalpana/leetcode/tree/master/0841-keys-and-rooms) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
