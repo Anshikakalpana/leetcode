@@ -136,6 +136,7 @@
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anshikakalpana/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Stack
