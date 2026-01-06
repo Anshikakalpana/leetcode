@@ -12,41 +12,63 @@
 class Solution {
 public:
 
-void check(TreeNode* root , int &maxi , int &height , int &h){
-    queue<TreeNode*>q;
-    q.push(root);
-    
-    while(!q.empty()){
-        h++;
-        int sum=0;
-        int n= q.size();
-        for(int i=0 ; i<n ; i++){
-            TreeNode* temp = q.front();
-            sum+=temp->val;
-            q.pop();
-            if(temp->left){
-                q.push(temp->left);
-                
+    // function to perform level-order traversal and find
+    // the level (height) with the maximum sum
+    void check(TreeNode* root, int &maxi, int &minHeight, int & currHeight) {
+
+        // queue for BFS (level-order traversal)
+        queue<TreeNode*> q;
+        q.push(root);
+
+        // continue until all levels are processed
+        while (!q.empty()) {
+
+            // Increment level counter
+            currHeight++;
+
+            int sum = 0;            // sum of current level
+            int n = q.size();       // number of nodes at current level
+
+            // process all nodes of the current level
+            for (int i = 0; i < n; i++) {
+
+                // get front node
+                TreeNode* temp = q.front();
+                q.pop();
+
+                // add node value to level sum
+                sum += temp->val;
+
+                // push left child if it exists
+                if (temp->left) {
+                    q.push(temp->left);
+                }
+
+                // push right child if it exists
+                if (temp->right) {
+                    q.push(temp->right);
+                }
             }
-            if(temp->right){
-                q.push(temp->right);
+
+            // update maximum sum and corresponding level
+            if (sum > maxi) {
+                maxi = sum;     // update max sum
+                minHeight = currHeight;     // store level number
             }
-       
-        }
-        if(sum>maxi){
-            maxi=sum;
-            height=h;
-         
         }
     }
 
-}
+    // main function to return the level with maximum sum
     int maxLevelSum(TreeNode* root) {
-        int height=0;
-        int h=0;
-        int maxi= INT_MIN;
-        check(root , maxi , height , h);
-        return height;
+
+        int minHeight = 0;          // stores answer (level number)
+        int currHeight = 0;               // tracks current level
+        int maxi = INT_MIN;      // stores maximum level sum
+
+     
+        check(root, maxi, minHeight, currHeight);
+
         
+        return minHeight;
     }
 };
