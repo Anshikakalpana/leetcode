@@ -20,6 +20,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Anshikakalpana/leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Anshikakalpana/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anshikakalpana/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Stack
