@@ -68,6 +68,7 @@
 | [0756-pyramid-transition-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshikakalpana/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anshikakalpana/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
@@ -117,6 +118,7 @@
 | [0113-path-sum-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshikakalpana/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -126,6 +128,7 @@
 | [0112-path-sum](https://github.com/Anshikakalpana/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Anshikakalpana/leetcode/tree/master/0841-keys-and-rooms) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshikakalpana/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -138,6 +141,7 @@
 | [0113-path-sum-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshikakalpana/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
@@ -162,6 +166,7 @@
 | [0437-path-sum-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Anshikakalpana/leetcode/tree/master/0841-keys-and-rooms) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anshikakalpana/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Anshikakalpana/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Anshikakalpana/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
