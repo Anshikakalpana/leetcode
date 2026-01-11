@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/Anshikakalpana/leetcode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Anshikakalpana/leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
 | [0179-largest-number](https://github.com/Anshikakalpana/leetcode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Anshikakalpana/leetcode/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anshikakalpana/leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
@@ -148,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Anshikakalpana/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0792-number-of-matching-subsequences](https://github.com/Anshikakalpana/leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Anshikakalpana/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -157,6 +160,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Anshikakalpana/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Depth-First Search
 |  |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
