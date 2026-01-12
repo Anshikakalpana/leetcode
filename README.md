@@ -16,6 +16,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Anshikakalpana/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Anshikakalpana/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1219-path-with-maximum-gold](https://github.com/Anshikakalpana/leetcode/tree/master/1219-path-with-maximum-gold) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anshikakalpana/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Anshikakalpana/leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Anshikakalpana/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -188,6 +189,7 @@
 | [0066-plus-one](https://github.com/Anshikakalpana/leetcode/tree/master/0066-plus-one) |
 | [0556-next-greater-element-iii](https://github.com/Anshikakalpana/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0840-magic-squares-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anshikakalpana/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anshikakalpana/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1390-four-divisors](https://github.com/Anshikakalpana/leetcode/tree/master/1390-four-divisors) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anshikakalpana/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anshikakalpana/leetcode/tree/master/0085-maximal-rectangle) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anshikakalpana/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
