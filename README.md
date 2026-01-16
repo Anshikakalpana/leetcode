@@ -29,6 +29,7 @@
 | [2054-two-best-non-overlapping-events](https://github.com/Anshikakalpana/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anshikakalpana/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anshikakalpana/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Anshikakalpana/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Anshikakalpana/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/Anshikakalpana/leetcode/tree/master/3453-separate-squares-i) |
@@ -80,6 +81,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Anshikakalpana/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2034-stock-price-fluctuation](https://github.com/Anshikakalpana/leetcode/tree/master/2034-stock-price-fluctuation) |
 | [2402-meeting-rooms-iii](https://github.com/Anshikakalpana/leetcode/tree/master/2402-meeting-rooms-iii) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anshikakalpana/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Anshikakalpana/leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Anshikakalpana/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
